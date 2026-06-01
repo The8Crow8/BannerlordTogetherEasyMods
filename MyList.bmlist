@@ -8,6 +8,7 @@ SandBoxCore: v1.3.15.110062
 CustomBattle: v1.3.15.110062
 Sandbox: v1.3.15.110062
 StoryMode: v1.3.15.110062
+BirthAndDeath: v1.3.15.110062
 WPS_SkipIntro: v1.0.0.0
 IDontCare: v2.9.0.0
 InventorySearchEnabler: v1.2.12.0
@@ -33,6 +34,12 @@ CaptiveLabor: v0.0.1.0
 RemoteFiefControl: v0.0.1.0
 GetYourOwnHorse: v1.0.0.0
 MercenaryWithFief: v3.0.0.0
-BirthAndDeath: v1.3.15.110062
 YouKeepWhatYouKill: v1.3.15.1
-FastMode: v1.3.15.110062
+CourierMessenger: v1.1.0.110062
+GoldRushConstruction: v0.0.1.0
+LoyaltyOverTime: v1.0.0.0
+PlayerGovernor: v1.3.10.0
+ImprovedGarrisons: v4.2.0.7
+Retinues: v1.3.14.28
+GovernorsHandleIssues: v1.1.1.4
+Overhead Shieldwall: v1.3.0.0
