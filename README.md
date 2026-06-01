@@ -1,1 +1,6 @@
 # BannerlordTogetherEasyMods
+
+To install mods Copy and paste this whole filepath into the File Explorer searchbar to find the correct folder:
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules
+
+Download and open part 1 through 4 and the ModList document.  Every folder inside Part 1, 2, 3, and 4 should be copies to your Bannerlord Modules folder.  I Would copy the MyList document to your desktop wallpaper for easy access.  You will use that to import my Load Order into Bannerlord Software Extender.
