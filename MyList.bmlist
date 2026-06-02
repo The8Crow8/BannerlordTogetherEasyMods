@@ -9,6 +9,7 @@ CustomBattle: v1.3.15.110062
 Sandbox: v1.3.15.110062
 StoryMode: v1.3.15.110062
 BirthAndDeath: v1.3.15.110062
+FastMode: v1.3.15.110062
 WPS_SkipIntro: v1.0.0.0
 IDontCare: v2.9.0.0
 InventorySearchEnabler: v1.2.12.0
@@ -42,7 +43,7 @@ PlayerGovernor: v1.3.10.0
 ImprovedGarrisons: v4.2.0.0
 Retinues: v1.3.14.28
 GovernorsHandleIssues: v1.1.1.4
-Overhead Shieldwall: v1.3.0.0
 DistinguishedService: v7.4.0.0
 NoCompanionLimit: v1.0.0.0
+Overhead Shieldwall: v1.3.0.0
 BannerlordTogether: v0.3.2.0
