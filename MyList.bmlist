@@ -39,7 +39,10 @@ CourierMessenger: v1.1.0.110062
 GoldRushConstruction: v0.0.1.0
 LoyaltyOverTime: v1.0.0.0
 PlayerGovernor: v1.3.10.0
-ImprovedGarrisons: v4.2.0.7
+ImprovedGarrisons: v4.2.0.0
 Retinues: v1.3.14.28
 GovernorsHandleIssues: v1.1.1.4
 Overhead Shieldwall: v1.3.0.0
+DistinguishedService: v7.4.0.0
+NoCompanionLimit: v1.0.0.0
+BannerlordTogether: v0.3.2.0
