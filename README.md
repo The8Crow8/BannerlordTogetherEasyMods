@@ -9,3 +9,5 @@ Download and open part 1 through 4 and the ModList document.  Every folder insid
 BE SURE you have Bannerlord Software Extender installed in this DIFFERENT FOLDER:
 
 C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Bin\Win64_Shipping_Client
+
+If you have installed STEAM on an external drive it won't be  Drive C:
